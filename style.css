@@ -1,5 +1,5 @@
 body {
-    background-image : url("./assets/images/FroggerBackground.png")
+    /* background-image : url("./assets/images/FroggerBackground.png") */
 }
 
 #title {
@@ -8,9 +8,9 @@ body {
     font-family: sans-serif;
     color: #FFFFFF;
     margin-top: 20;
-    margin-bottom: 20
+    margin-bottom: 20s
 }
 
-#frogger {
+/* #frogger {
     
-}
+} */
