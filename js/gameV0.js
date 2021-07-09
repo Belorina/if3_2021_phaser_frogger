@@ -17,6 +17,10 @@ let config = {
     autoCenter: true
 };
 
+// bugs to fix 
+// mum position is too up 
+// frog ead image on frogs dead position 
+// collision with cars frog - cars- to check 
 
 let game = new Phaser.Game(config);
 let BG;
