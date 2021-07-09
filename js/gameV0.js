@@ -47,7 +47,7 @@ function init() {
 function preload() {
     this.load.image('background', './assets/images/FroggerBackground.png');
     this.load.image('frog', './assets/images/Frog.png');
-    this.load.image('mumFrog', './assets/images/smileymumfrog.png');
+    this.load.image('mumFrog', './assets/images/mumfrog.png');
     this.load.image('heart', './assets/images/heart.png');
     this.load.image('deadFrog', './assets/images/deadFrog.png');
     this.load.image('car0', './assets/images/car.png');
