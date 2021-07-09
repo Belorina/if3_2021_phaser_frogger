@@ -22,6 +22,11 @@ let config = {
 // frog ead image on frogs dead position 
 // collision with cars frog - cars- to check 
 
+// extra to do; 
+// contre lamontre
+// max de grenouilles 
+
+
 let game = new Phaser.Game(config);
 let BG;
 let frog, mumFrog;
