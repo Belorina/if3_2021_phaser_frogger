@@ -37,7 +37,7 @@ function preload() {
     this.load.image('frog', './assets/images/Frog.png');
     this.load.image('mumFrog', './assets/images/smileymumfrog.png');
     this.load.image('heart', './assets/images/heart.png');
-
+    this.load.image('deadFrog','./assets/images/deadFrog.png');
 
 }
 
