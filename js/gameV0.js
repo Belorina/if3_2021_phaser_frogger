@@ -18,13 +18,7 @@ let config = {
 };
 
 // bugs to fix 
-// mum position is too up 
-// frog ead image on frogs dead position 
-// collision with cars frog - cars- to check 
-
-// extra to do; 
-// contre lamontre
-// max de grenouilles 
+// pos mum not rndom ? 
 
 
 let game = new Phaser.Game(config);
